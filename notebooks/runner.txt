@@ -1,0 +1,5 @@
+1. Data Prepocessing
+2. Tf-idf
+3. k-fold
+4. holdout
+5. vader
