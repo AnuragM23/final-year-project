@@ -1,5 +1,7 @@
-1. Data Prepocessing
-2. Tf-idf
-3. k-fold
-4. holdout
-5. vader
+ Run the notebooks in the chronological order listed below
+
+1. Data Preprocessing.ipynb
+2. Tf-idf Vectors with SMOTE.ipynb
+3. K-fold Crossvalidation with BERT.ipynb
+4. Holdout Classification with BERT.ipynb
+5. Vader Sentiment Analysis.ipynb
